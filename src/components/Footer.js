@@ -64,52 +64,51 @@ function Footer() {
                 <div class='social-media-wrap'>
                     <div class='footer-logo'>
                         <Link to='/' className='social-logo'>
-                            TRVL
-                            <i class='fab fa-typo3' />
+                            Raihan's travels
                         </Link>
                     </div>
-                    <small class='website-rights'>Raihan's Travels © 2021</small>
+                    <small class='website-rights'>Developed by Raihan Shoumik © 2021</small>
                     <div class='social-icons'>
-                        <Link
+                        <a
                             class='social-icon-link facebook'
-                            to='/'
+                            href='https://www.facebook.com/raihan.shoumik/'
                             target='_blank'
                             aria-label='Facebook'
                         >
                             <i class='fab fa-facebook-f' />
-                        </Link>
-                        <Link
+                        </a>
+                        <a
                             class='social-icon-link instagram'
-                            to='/'
+                            href='https://www.instagram.com/duudees_/'
                             target='_blank'
                             aria-label='Instagram'
                         >
                             <i class='fab fa-instagram' />
-                        </Link>
-                        <Link
-                            class='social-icon-link youtube'
-                            to='/'
+                        </a>
+                        <a
+                            class='social-icon-link github'
+                            href='https://github.com/Z0G'
                             target='_blank'
-                            aria-label='Youtube'
+                            aria-label='Github'
                         >
-                            <i class='fab fa-youtube' />
-                        </Link>
-                        <Link
+                            <i class='fab fa-github' />
+                        </a>
+                        <a
                             class='social-icon-link twitter'
-                            to='/'
+                            href='https://twitter.com/duderaihan'
                             target='_blank'
                             aria-label='Twitter'
                         >
                             <i class='fab fa-twitter' />
-                        </Link>
-                        <Link
+                        </a>
+                        <a
                             class='social-icon-link twitter'
-                            to='/'
+                            href='https://www.linkedin.com/in/raihan-shoumik/'
                             target='_blank'
                             aria-label='LinkedIn'
                         >
                             <i class='fab fa-linkedin' />
-                        </Link>
+                        </a>
                     </div>
                 </div>
             </section>
